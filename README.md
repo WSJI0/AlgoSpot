@@ -4,6 +4,7 @@
 | --- | --- |
 | BOGGLE  | ✔️(DP) |
 | PICNIC  |✔️|
+| BOARDCOVER  |✔️|
 
 ✔️ 해결 완료
 ✖️ 실패
