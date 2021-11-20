@@ -5,7 +5,7 @@
 | BOGGLE  | ✔️(DP) |
 | PICNIC  |✔️|
 | BOARDCOVER  |✔️|
-| CLOCKSYNC  |🔥|
+| CLOCKSYNC  |✔️|
 
 ✔️ 해결 완료
 ✖️ 실패
