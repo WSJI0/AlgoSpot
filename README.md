@@ -3,7 +3,8 @@
 ```sh
 ✔️ 해결 완료  
 ❌ 실패  
-⚠️ 해결하였지만 복습 필요  
+  
+⚠️ 복습 필요  
 🔥 도전중  
 ⭐️ 중요
 ```
@@ -15,7 +16,7 @@
 | BOARDCOVER | ✔️ |
 | CLOCKSYNC | ✔️ |
 | QUADTREE | ✔️ |
-| FENCE | ⚠️ |
+| FENCE | ✔️⚠️ |
 | FANMEETING |  |
 | JUMPGAME |  |
 | WILDCARD |  |
