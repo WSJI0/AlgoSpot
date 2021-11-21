@@ -9,11 +9,11 @@
 
 | 문제 제목 | 해결 여부 |
 | --- | --- |
-| BOGGLE (DP) |✔️|
-| PICNIC |✔️|
-| BOARDCOVER |✔️|
-| CLOCKSYNC |✔️|
-| QUADTREE |  |
+| BOGGLE (DP) | ✔️ |
+| PICNIC | ✔️ |
+| BOARDCOVER | ✔️ |
+| CLOCKSYNC | ✔️ |
+| QUADTREE | ✔️ |
 | FENCE |  |
 | FANMEETING |  |
 | JUMPGAME |  |
