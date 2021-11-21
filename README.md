@@ -9,7 +9,7 @@
 
 | 문제 제목 | 해결 여부 |
 | --- | --- |
-| BOGGLE | ✔️(DP) |
+| BOGGLE (DP) |✔️|
 | PICNIC |✔️|
 | BOARDCOVER |✔️|
 | CLOCKSYNC |✔️|
