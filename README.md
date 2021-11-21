@@ -15,7 +15,7 @@
 | BOARDCOVER | ✔️ |
 | CLOCKSYNC | ✔️ |
 | QUADTREE | ✔️ |
-| FENCE |  |
+| FENCE | ⚠️ |
 | FANMEETING |  |
 | JUMPGAME |  |
 | WILDCARD |  |
