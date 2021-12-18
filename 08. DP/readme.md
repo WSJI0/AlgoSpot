@@ -2,3 +2,4 @@
 
 ## 문제 목록
 > BOGGLE  
+> JUMPGAME
