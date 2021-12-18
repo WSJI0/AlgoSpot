@@ -18,7 +18,7 @@
 | QUADTREE | ✔️ |
 | FENCE | ✔️⚠️ |
 | FANMEETING |  |
-| JUMPGAME |  |
+| JUMPGAME | ✔️ |
 | WILDCARD |  |
 | TRIANGLEPATH |  |
 | JLIS |  |
